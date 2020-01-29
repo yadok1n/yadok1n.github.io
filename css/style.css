@@ -1,0 +1,11 @@
+body{ background: url(images/hand.png) repeat-y #ff5600}
+h1 {font-family: sans-serif }
+ il {
+  background: #ddd;
+  border: 1px solid #ddd;
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+list-style-type: none; 
+}
+img{height: 300px;width: 300px}
